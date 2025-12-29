@@ -18,7 +18,8 @@ Manter a constância nos estudos e registrar a evolução técnica, focando em b
 
 ## 🛠️ Tecnologias
 * **Java** (Foco atual)
-* *Adicione outras aqui futuramente (Git, Spring, SQL...)*
+* **SQL**
+* **SpringBoot**
 
 ---
 *Criado por [Gabriel Vitori](https://github.com/Gabrielvitori)*
