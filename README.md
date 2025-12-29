@@ -17,7 +17,7 @@ Manter a constância nos estudos e registrar a evolução técnica, focando em b
 | ... | ... | ... | ... |
 
 ## 🛠️ Tecnologias
-* **Java** (Foco atual)
+* **Java** 
 * **SQL**
 * **SpringBoot**
 
