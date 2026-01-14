@@ -9,13 +9,6 @@
 ## 🎯 Objetivo
 Manter a constância nos estudos e registrar a evolução técnica, focando em boas práticas e resolução de problemas reais.
 
-## 📚 Tabela de Conteúdos
-
-| Data | Tópico | Descrição | Link |
-| :---: | :--- | :--- | :---: |
-| 29/12 | **Interfaces (Java)** | Exercício prático sobre Interfaces e polimorfismo | [Ver Código](./interfaceJava) |
-| ... | ... | ... | ... |
-
 ## 🛠️ Tecnologias
 * **Java** 
 * **SQL**
