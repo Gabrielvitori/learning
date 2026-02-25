@@ -25,7 +25,7 @@ public class Program {
             }
         }
 
-        System.out.println("Total studenst: " + alunoQtd.size());
+        System.out.println("Total student: " + alunoQtd.size());
 
 
     }
